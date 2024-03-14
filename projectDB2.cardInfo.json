@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "65c219d33fd95cab04ed771f"
+  },
+  "cardNumber": "1234567890123456",
+  "cardType": "Visa",
+  "cardholderName": "LeenAlshrif",
+  "CVC": "123",
+  "expirationDate": "12/25"
+},
+{
+  "_id": {
+    "$oid": "65c21af63fd95cab04ed7724"
+  },
+  "cardNumber:": "111222233334444",
+  "cardType": "Visa",
+  "cardholderName:": "ReemAlharthi",
+  "CVC": "912",
+  "expirationDate:": "08/28"
+},
+{
+  "_id": {
+    "$oid": "65c21b993fd95cab04ed7725"
+  },
+  "cardNumber:": "9999000011112222",
+  "cardType:": "Visa",
+  "cardholderName:": "RazanAlqarni",
+  "CVC": "565",
+  "expirationDate": "09/27"
+},
+{
+  "_id": {
+    "$oid": "65c21c443fd95cab04ed7726"
+  },
+  "cardNumber:": "7777666655554444",
+  "cardType:": "Visa",
+  "cardholderName:": "RanaJaha",
+  "CVC": "377",
+  "expirationDate": "11/25"
+},
+{
+  "_id": {
+    "$oid": "65c21ca43fd95cab04ed7727"
+  },
+  "cardNumber:": "9999345011110022",
+  "cardType:": "Visa",
+  "cardholderName:": "ShahadAlzhrani",
+  "CVC": "999",
+  "expirationDate": "12/29"
+},
+{
+  "_id": {
+    "$oid": "65c21d293fd95cab04ed7728"
+  },
+  "cardNumber:": "8765543210987694",
+  "cardType:": "Mastercard",
+  "cardholderName:": "RolaAlotibi",
+  "CVC": "199",
+  "expirationDate:": "01/29"
+}]

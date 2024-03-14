@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "65c227f7af400cd3e626296b"
+  },
+  "name": "Chocolate Delight",
+  "price": "15",
+  "type": "Cupcakes",
+  "description": "Indulge in the rich and moist Chocolate Delight cupcakes. These heaven…"
+},
+{
+  "_id": {
+    "$oid": "65c228a9af400cd3e626296d"
+  },
+  "name": "Classic Chocolate Chip",
+  "price": "7",
+  "type": "Cookies",
+  "Description": "These soft and chewy cookies are loaded with gooey chocolate chips and…"
+},
+{
+  "_id": {
+    "$oid": "65c22927af400cd3e626296e"
+  },
+  "name": "Raspberry Delight",
+  "price": "15",
+  "type": "Macarons",
+  "Description": "These macarons are sure to impress at an event!"
+},
+{
+  "_id": {
+    "$oid": "65c22989af400cd3e626296f"
+  },
+  "name": "Vanilla Dream",
+  "price": "35",
+  "type": "Cake",
+  "Description": "Our Vanilla Dream cake is a heavenly delight that will captivate your …"
+},
+{
+  "_id": {
+    "$oid": "65c22a02af400cd3e6262970"
+  },
+  "name": "Apple Cinnamon Crumble",
+  "price": "60",
+  "type": "Pies",
+  "Description": "This classic dessert features a flaky golden crust filled with tender …"
+}]

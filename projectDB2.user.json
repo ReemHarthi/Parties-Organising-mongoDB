@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "65c211063fd95cab04ed770d"
+  },
+  "username": "tima",
+  "password": "102935",
+  "phoneNumber": "966555837123",
+  "email": "tima@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "65c2116d3fd95cab04ed770e"
+  },
+  "username": "lona",
+  "password": "123456",
+  "phoneNumber": "966555679932",
+  "email": "lo@gmail.co"
+},
+{
+  "_id": {
+    "$oid": "65c211e33fd95cab04ed770f"
+  },
+  "username": "reem",
+  "password": "reem12",
+  "phoneNumber": "966555037893",
+  "email": "reem@hotmail.com"
+},
+{
+  "_id": {
+    "$oid": "65c212423fd95cab04ed7710"
+  },
+  "username": "razan",
+  "password": "r1a2z",
+  "phoneNumber": "966555349812",
+  "email": "raz@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "65c212a53fd95cab04ed7711"
+  },
+  "username": "rana99",
+  "password": "ran987",
+  "phoneNumber": "966533127874",
+  "email": "ranaJ@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "65c213843fd95cab04ed7712"
+  },
+  "username": "shahadZ",
+  "password": "sh0000",
+  "phoneNumber": "966588931274",
+  "email": "shahad@hotmail.com"
+},
+{
+  "_id": {
+    "$oid": "65c213f93fd95cab04ed7713"
+  },
+  "username": "Rola3",
+  "password": "roLa31",
+  "phoneNumber": "966555098562",
+  "email": "rolaM@hotmail.com"
+},
+{
+  "_id": {
+    "$oid": "65c25785a48272c2304a4462"
+  },
+  "username": "hanan",
+  "password": "123456",
+  "phoneNumber": "966435675678",
+  "email": "hanan@gmail.com"
+}]

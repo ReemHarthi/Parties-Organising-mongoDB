@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "65c225a5af400cd3e6262965"
+  },
+  "Name": "Caramel Macchiato",
+  "Price": "28",
+  "Type": "Coffee",
+  "Description": "A layered espresso beverage made with steamed milk, vanilla syrup, espresso."
+},
+{
+  "_id": {
+    "$oid": "65c22639af400cd3e6262966"
+  },
+  "Name": "Orange Juice",
+  "Price": "10",
+  "Type": "juice",
+  "Description": "A natural beverage made from freshly squeezed oranges."
+},
+{
+  "_id": {
+    "$oid": "65c226c7af400cd3e6262967"
+  },
+  "Name": "Mojito",
+  "Price": "15",
+  "Type": "Cocktail",
+  "Description": "A classic cocktail made with lime juice, soda water, and mint leaves."
+},
+{
+  "_id": {
+    "$oid": "65c22722af400cd3e6262968"
+  },
+  "Name": "Coca-Cola",
+  "Price": "3",
+  "Type": "Soda",
+  "Description": "A popular carbonated for its refreshing taste."
+},
+{
+  "_id": {
+    "$oid": "65c2278faf400cd3e6262969"
+  },
+  "Name": "Green Tea",
+  "Price": "8",
+  "Type": "Tea",
+  "Description": "A made from steeping green tea leaves in hot water."
+}]
